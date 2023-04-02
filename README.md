@@ -16,11 +16,11 @@
 
   * [<g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png">🤔</g-emoji> Why Charlatan?](#-why-charlatan)
   
-  * [<g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Features](#features)
+  * [<g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Features](#-features)
 
-  * [🧰 Built using](#-tools)
+  * [🧰 Built using](#-built-using)
 
-  * [🙏 Dcode](#-tools)
+  * [🙏 Dcode](#-special-thanks-to-dcode)
 
   * [<g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">🌟</g-emoji> Feedback](#-feedback)
 
@@ -42,31 +42,39 @@ Whether you're a seasoned novelist or a first-time writer, Charlatan is the perf
 
 ## 📚 Features
 
+
+<h4>• User-friendly interface that let's you add a new profile with one click<br>
 <br>
-<h3>• User-friendly interface that let's you add a new profile with one click<br>
 • Deletion of profiles can be done by double clicking the profiles on the sidebar <br>
+<br>
 • Minimalistic UI design which won't cause strain to the eyes<br>
-<br></h3>
+<br></h4>
 
 ## 🧰 Built Using
 
-<br>
-<br>
-<img align="left" alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width=" 25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><br>
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width=" 30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><br>
 
 <br>
+
+## ✍️ What I learned
+
 <br>
+
+JavaScript, GitHub licensing, Documentation(README) were the primary things I learned thanks to OpenHacks.
+
+<br>
+
 
 ## 🙏 Special Thanks to Dcode
 
 <br>
 
-This [code](https://github.com/dcode-youtube/notes-app-javascript-localstorage) was modified by me to make Charlatan. Age, Gender, UI(CSS) and a few lines of JavaScript were the modifications made to this code.<br>
+[This code](https://github.com/dcode-youtube/notes-app-javascript-localstorage) was modified by me to make Charlatan. Age, Gender, UI(CSS) and extra lines of JavaScript were the modifications made to this code.<br>
 
 <br>
-
 
 
 

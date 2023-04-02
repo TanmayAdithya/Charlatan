@@ -4,11 +4,11 @@
 </p>
 
 <h1 align="center"> Charlatan </h1>
-<br>
+
 <h2 align="center">
     A web application designed to help writers create rich and dynamic character profiles with ease.
 </h2>
-<br></br>
+<br>
 
 ## Table of Contents
 

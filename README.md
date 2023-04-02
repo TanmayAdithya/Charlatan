@@ -47,6 +47,10 @@ Whether you're a seasoned novelist or a first-time writer, Charlatan is the perf
 <br>
 • Deletion of profiles can be done by double clicking the profiles on the sidebar <br>
 <br>
+• Profile data won't be lost even if you exit the application by accident<br>
+<br>
+• It is not necessary to log in or create an account.<br>
+<br>
 • Minimalistic UI design which won't cause strain to the eyes<br>
 <br></h4>
 
